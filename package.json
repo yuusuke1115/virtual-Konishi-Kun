@@ -1,0 +1,19 @@
+{
+  "name": "virtual-konishi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^8.2.0",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "ngrok": "^5.0.0-beta.2",
+    "nodemon": "^3.0.3"
+  }
+}
